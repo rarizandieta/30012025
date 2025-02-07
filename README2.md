@@ -1,3 +1,3 @@
 # 30012025
 Ingenieria en sistemas
-Capital de Honduras
+Capital de Nicaragua
