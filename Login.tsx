@@ -7,4 +7,4 @@ Input de contraseña
 
 boton de login
 
-
+boton de registro
